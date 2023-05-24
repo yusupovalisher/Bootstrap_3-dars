@@ -1,0 +1,31 @@
+.did{
+    font-weight: bold;
+    float: left;
+    font-size: 16px;
+    margin-top: 55px;
+}
+.did2{
+    font-weight: bold;
+    float: left;
+    font-size: 16px;
+    margin-left: 660px;
+    margin-top: 55px;
+    border-radius: 5px;
+}
+.wado{
+    box-shadow: 0 0 4px darkgray !important;
+    font-weight: bold;
+}
+.son{
+    margin-left: 10px;
+}
+.tank{
+    font-size: 16px;
+    font-weight: bold;
+}
+.car{
+    width: 70px;
+    height: 35px;
+    border-radius: 5px;
+
+}
